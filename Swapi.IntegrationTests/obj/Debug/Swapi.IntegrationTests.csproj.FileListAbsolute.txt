@@ -1,0 +1,15 @@
+C:\Learning\SwapiApiChallenge\Swapi.IntegrationTests\bin\Debug\Swapi.IntegrationTests.dll
+C:\Learning\SwapiApiChallenge\Swapi.IntegrationTests\bin\Debug\Swapi.IntegrationTests.pdb
+C:\Learning\SwapiApiChallenge\Swapi.IntegrationTests\bin\Debug\xunit.abstractions.dll
+C:\Learning\SwapiApiChallenge\Swapi.IntegrationTests\bin\Debug\xunit.assert.dll
+C:\Learning\SwapiApiChallenge\Swapi.IntegrationTests\bin\Debug\xunit.core.dll
+C:\Learning\SwapiApiChallenge\Swapi.IntegrationTests\bin\Debug\xunit.execution.desktop.dll
+C:\Learning\SwapiApiChallenge\Swapi.IntegrationTests\bin\Debug\xunit.abstractions.xml
+C:\Learning\SwapiApiChallenge\Swapi.IntegrationTests\bin\Debug\xunit.assert.xml
+C:\Learning\SwapiApiChallenge\Swapi.IntegrationTests\bin\Debug\xunit.core.xml
+C:\Learning\SwapiApiChallenge\Swapi.IntegrationTests\bin\Debug\xunit.execution.desktop.xml
+C:\Learning\SwapiApiChallenge\Swapi.IntegrationTests\obj\Debug\Swapi.IntegrationTests.csprojAssemblyReference.cache
+C:\Learning\SwapiApiChallenge\Swapi.IntegrationTests\obj\Debug\Swapi.IntegrationTests.csproj.CoreCompileInputs.cache
+C:\Learning\SwapiApiChallenge\Swapi.IntegrationTests\obj\Debug\Swapi.IntegrationTests.csproj.CopyComplete
+C:\Learning\SwapiApiChallenge\Swapi.IntegrationTests\obj\Debug\Swapi.IntegrationTests.dll
+C:\Learning\SwapiApiChallenge\Swapi.IntegrationTests\obj\Debug\Swapi.IntegrationTests.pdb
